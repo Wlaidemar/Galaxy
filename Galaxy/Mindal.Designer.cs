@@ -1,6 +1,6 @@
 ﻿namespace Galaxy
 {
-    partial class Ellips
+    partial class Mindal
     {
         /// <summary>
         /// Required designer variable.
@@ -28,40 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Ellips));
-            this.progressBarEllips = new System.Windows.Forms.ProgressBar();
-            this.timerEllips = new System.Windows.Forms.Timer(this.components);
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Mindal));
             this.SuspendLayout();
             // 
-            // progressBarEllips
-            // 
-            this.progressBarEllips.BackColor = System.Drawing.Color.Black;
-            this.progressBarEllips.ForeColor = System.Drawing.Color.Transparent;
-            this.progressBarEllips.Location = new System.Drawing.Point(120, 490);
-            this.progressBarEllips.Name = "progressBarEllips";
-            this.progressBarEllips.Size = new System.Drawing.Size(328, 10);
-            this.progressBarEllips.TabIndex = 0;
-            // 
-            // Ellips
+            // Mindal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(584, 561);
-            this.Controls.Add(this.progressBarEllips);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Ellips";
+            this.Name = "Mindal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Ellips";
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Ellips_Paint);
+            this.Text = "Mindal";
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Mindal_Paint);
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.ProgressBar progressBarEllips;
-        private System.Windows.Forms.Timer timerEllips;
     }
 }

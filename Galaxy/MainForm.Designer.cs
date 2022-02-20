@@ -62,6 +62,7 @@
             this.mindalLabel.Size = new System.Drawing.Size(176, 23);
             this.mindalLabel.TabIndex = 1;
             this.mindalLabel.Text = "Миндалевидная";
+            this.mindalLabel.Click += new System.EventHandler(this.mindalLabel_Click);
             this.mindalLabel.MouseLeave += new System.EventHandler(this.mindalLabel_MouseLeave);
             this.mindalLabel.MouseHover += new System.EventHandler(this.mindalLabel_MouseHover);
             // 

@@ -59,6 +59,13 @@
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mindal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mindal.Designer.cs">
+      <DependentUpon>Mindal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintGalaxy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Ellips.resx">
@@ -66,6 +73,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mindal.resx">
+      <DependentUpon>Mindal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -10,3 +10,4 @@ D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.exe
 D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.pdb
 D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.MainForm.resources
 D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.Ellips.resources
+D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.Mindal.resources

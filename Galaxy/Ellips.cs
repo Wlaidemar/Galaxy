@@ -16,21 +16,19 @@ namespace Galaxy
         public Ellips()
         {
             InitializeComponent();
+            timerEllips.Interval = 50; 
+            timerEllips.Enabled = true;
+            timerEllips.Tick += timer1_Tick;
         }
-        Random random = new Random();
+        
+        void timer1_Tick(object sender, EventArgs e)
+        {
+            progressBarEllips.PerformStep();
+        }
+
         private void Ellips_Paint(object sender, PaintEventArgs e)
         {
-            for (int i = 0; i < 599; i++)
-            {
-                for (int j = 0; j < 599; j++)
-                {
-                    double result = random.NextDouble();
-                    if (result <= Engine.Functional(Engine.DistanceToTheCenter(i, j), 13000))
-                    {
-                        e.Graphics.FillRectangle(Brushes.White, i, j, 1, 1);
-                    }
-                }
-            }
+            PrintGalaxy.PrintEllips(e, 12000);
         }
     }
 }

@@ -53,5 +53,11 @@ namespace Galaxy
             Ellips ellips = new Ellips();
             ellips.Show();
         }
+
+        private void mindalLabel_Click(object sender, EventArgs e)
+        {
+            Mindal mindal = new Mindal();
+            mindal.Show();
+        }
     }
 }
