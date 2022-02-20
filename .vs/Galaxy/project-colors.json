@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2e9c7aa-251d-4f91-af33-d9a0d255cb8a": {
+      "ProjectGuid": "c2e9c7aa-251d-4f91-af33-d9a0d255cb8a",
+      "DisplayName": "Galaxy",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,12 @@
+D:\repository\University\Graphic\Galaxy\Galaxy\bin\Debug\Galaxy.exe.config
+D:\repository\University\Graphic\Galaxy\Galaxy\bin\Debug\Galaxy.exe
+D:\repository\University\Graphic\Galaxy\Galaxy\bin\Debug\Galaxy.pdb
+D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.csproj.AssemblyReference.cache
+D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.csproj.SuggestedBindingRedirects.cache
+D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.cache
+D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.csproj.CoreCompileInputs.cache
+D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.exe
+D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.pdb
+D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.MainForm.resources
+D:\repository\University\Graphic\Galaxy\Galaxy\obj\Debug\Galaxy.Ellips.resources
